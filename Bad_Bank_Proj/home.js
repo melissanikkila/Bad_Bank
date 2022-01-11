@@ -3,9 +3,10 @@ function Home(){
         <Card
         bgcolor="dark"
         txtcolor="white"
-        header="BadBank Landing Page"
+        header="BADBANK HOME PAGE"
         title="Welcome to BadBank"
-        text="You can use this bank"
+        text="We have no security. 
+        Bank at your own risk."
         body={(<img src="bank_img.png" className="img-fluid" alt="Responsive Image"/>)}
         />
     );
