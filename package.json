@@ -1,0 +1,4 @@
+"scripts": {
+  "test": "echo \"Error: no test specified\""
+  "start": "node index.js"
+}
